@@ -23,16 +23,13 @@ Replace this text with a description of the issue. You can add screenshots by dr
 Replace this text with how you would expect this to work.
 
 ## Additional information
+---
+Open the controller menu (hold left knob down), navigate to **Info > Versions** and write down here the versions.
 
-If you know these details, add them here:
-
- * Firmware version: XXXX
- * Computer Operating System: XXXX
+* release:
+* controller:
 
 ## Would you be willing or able to help resolve this issue?
 
-Replace this text with "yes" or "no".
-
-----
-
-Thankyou for helping to make the Mod Duo rock even more!
+( ) Yes
+( ) No
