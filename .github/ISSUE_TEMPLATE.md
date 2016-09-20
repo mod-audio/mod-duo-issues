@@ -29,7 +29,7 @@ Open the controller menu (hold left knob down), navigate to **Info > Versions** 
 * release:
 * controller:
 
-## Would you be willing or able to help resolve this issue?
+Also provide some information about your system if possible.
 
-( ) Yes
-( ) No
+* Operating system: (Linux, Mac or Windows)
+* System version: (Windows 10 or Mac 10.10, etc)
